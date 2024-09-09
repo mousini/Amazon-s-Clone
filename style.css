@@ -1,0 +1,405 @@
+.navbar{
+    height:60px;
+    background-color:black;
+    color:white;
+    display:flex;
+}
+*{
+    margin:0;
+    font-family:Arial, Helvetica, sans-serif;
+    }
+    .nav-logo{
+        height:50px;
+        width:100px;
+    }
+    .logo{
+        background-image: url("https://images-na.ssl-images-amazon.com/images/G/01/gc/designs/livepreview/amazon_dkblue_noto_email_v2016_us-main._CB468775337_.png");
+        background-size:cover;
+height:60px;
+width:100%;
+ }
+ border{
+
+ border:2px solid transparent;
+
+ }
+ .border:hover{
+    border:2px solid white;
+ }
+ .nav-address{
+    color:black;
+    background-color:black;
+    
+ }
+ .side{
+    height:60px;
+    width:5%;
+    position:absolute;
+    top:0px;
+    left:100px;
+    text-align:center;
+    border:2px solid transparent;
+    display:inline-block;
+ }
+ .side:hover{
+border:2px solid white;
+ }
+ .india{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:darkorange;
+    position:absolute;
+    top:37px;
+    left:17px;
+    bottom: 20px;
+ }
+.search{
+    height:60px;
+    width:10px;
+    position:absolute;
+    top:0px;
+    left:200px;
+    align-items:center;
+    justify-content:center;
+    height:50vh;
+    border:2px solid transparent;
+}
+.side:hover{
+    border:2px solid white;
+
+}
+.button{
+    height:60px;
+    width: 10px;
+    position:absolute;
+    top:00px;
+    left:400px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+.three{
+    height:30px;
+    width:45px;
+    position:relative;
+    top:15px;
+    left:350px;
+
+}
+.next{
+    position:relative;
+    top:20px;
+    left:350px;
+}
+.hi{
+    height:10px;
+    width:40px;
+    position:relative;
+    top:15px;
+    left:430px;
+}
+
+.in{
+    height:10px;
+    width:100px;
+    position:relative;
+    top:35px;
+    left:390px;
+}
+.account{
+    height:60px;
+    position:relative;
+    top:20px;
+    left:400px;
+
+}
+.orders{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:darkorange;
+}
+.returns{
+    position:relative;
+    top:0px;
+    left:500px;
+    border:2px solid transparent;
+
+}
+.returns:hover{
+    border:2px solid white;
+}
+.cart{
+    position:relative;
+top:20px;
+    left: 616px;
+}
+.shop{
+    height:60px;
+    width:70px;
+    position:relative;
+    top:0px;
+    left:620px;
+}
+.panel{
+    height:40px;
+    background-color:#222f3d;
+    display:flex;
+}
+.panelall{
+    height:40px;
+    position:relative;
+    top:10px;
+    left:50px;
+    color:azure;
+}
+.hi6{
+    height:40px;
+    position:relative;
+    top:10px;
+    left:900px;
+    color:darkorange;
+
+}
+.menulogo{
+    height:40px;
+    width:50px;
+    position:relative;
+    top:0px;
+    left:-575px;
+}
+.panelops{
+    position:relative;
+    top:12px;
+    left:60px;
+}
+.panelops5{
+    position:relative;
+    top:12px;
+    left:70px;
+}
+.panelops4{
+    position:relative;
+    top:12px;
+    left:80px;
+}
+.panelops3{
+    position:relative;
+    top:12px;
+    left:90px;
+}
+.panelops2{
+    position:relative;
+    top:12px;
+    left:100px;
+}
+.bye{
+    color:whitesmoke;
+}
+.byee{
+    color:whitesmoke;
+}
+.byeee{
+    color:whitesmoke;
+}
+.byeeee{
+    color:whitesmoke;
+}
+.byeeeee{
+    color:whitesmoke;
+}
+.by{
+    color:lightsalmon;
+}
+.by1{
+    color:whitesmoke;
+}
+.by2{
+    color:whitesmoke;
+}
+.hero-section{
+    background-image:url("unrechigh._CB582772908_.jpg");
+    background-size:cover;
+    height:350px;
+    display:flex;
+    justify-content:center;
+}
+.hero-message{
+    background-color:whitesmoke;
+    color:black;
+    height:40px;
+    width:95%;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    position:relative;
+    bottom:-300px;
+}
+.clickhere{
+    color:blue;
+
+}
+.box{
+    border:2px solid black;
+    height:290px;
+    display:flex;
+    width:23%;
+    background-color:white;
+}
+.shop-section{
+    display:flex;
+    justify-content:space-evenly;
+    background-color:#e2e7e6;
+}
+.box1{
+    background-image:url("https://m.media-amazon.com/images/I/91YHGGOXM3L._AC_SY200_.jpg");
+    background-size:cover;
+    border:2px solid transparent;
+}
+.box1:hover{
+    border:2px solid white;
+}
+
+.box2{
+    BACKGROUND-IMAGE:URL("https://m.media-amazon.com/images/I/71nBba6boqL._AC_SY200_.jpg");
+    BACKGROUND-SIZE:COVER;
+    color:antiquewhite;
+    border:2px soloid transparernt;
+}
+.box2:hover{
+    border:2px solid white;
+}
+.box3{
+    background-image:url("https://m.media-amazon.com/images/I/51g5V8D7H1L._AC_SY200_.jpg");
+    background-size:cover;
+    color:bisque;
+    border:2px solid transparent;
+}
+
+.box:hover{
+    border:2px solid white;
+}
+.box4{
+    background-image:url("https://m.media-amazon.com/images/I/51v+Ml0tAcL._AC_SY200_.jpg");
+    background-size:cover;
+}
+.pic2{
+    background-image:url("https://images-eu.ssl-images-amazon.com/images/G/31/img22/WLA/2024/BAU/Hero/D91435399_WLA-BAU-Unrec-Hero_DesktopTallHero_3000x1200-bau._CB582195367_.jpg");
+    background-size:cover;
+    height:350px;
+    display:flex;
+    justify-content:center;
+}
+.heromessage2{
+    background-color:coral;
+    color:black;
+    height:40px;
+    width:95%;
+    
+}
+.secondlast{
+    display:flex;
+    justify-content:space-evenly;
+    background-color:#e2e7e6;
+    height:320px;
+
+
+}
+.box11{
+    background-image:url("https://images-eu.ssl-images-amazon.com/images/G/31/img19/OOC/Gateway/brands/1/camera.jpg");
+    width:300px;
+    background-size:cover;
+    position:relative;
+    top:0;
+    right:30px;
+    border:2px solid transparent;
+}
+.box11:hover{
+    border:2px solid white;
+}
+.box22{
+    background-image:url("https://images-eu.ssl-images-amazon.com/images/G/31/img19/OOC/Gateway/brands/category/1/Shop-by-category-15.jpg");
+    background-size:cover;
+    width:300px;
+    position:relative;
+    top:0;
+    right:20px;
+    border:2px solid transparent;
+
+}
+.box22:hover{
+    border:2px solid white;
+}
+.box33{
+    background-image:url("https://images-eu.ssl-images-amazon.com/images/G/31/img19/OOC/Gateway/brands/category/1/Shop-by-category-16.jpg");
+    background-size:cover;
+    width:300px;
+    position:relative;
+    top:0px;
+    right:1px;
+    border:2px solid transparent;
+}
+.box33:hover{
+    border:2px solid white;
+}
+.box44{
+    background-image:url("https://images-eu.ssl-images-amazon.com/images/G/31/img19/OOC/Gateway/brands/1/kit.jpg");
+    background-size:cover;
+    width:300px;
+    position:relative;
+    top:0px;
+    left:30px;
+    border:2px solid transparent;
+}
+.box44:hover{
+    border:2px solid white;
+}
+footer{
+    margin-top:15px;
+}
+.foot1{
+    background-color:#37475a;
+    color:white;
+    height:49px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-size:0.85rem;
+}
+.foot2{
+    background-color:#222f3d;
+    color:white;
+    height:500px;
+    display:flex;
+    justify-content:space-evenly;
+
+}
+ul{
+    margin-top:70px;
+}
+ul a{
+    display:block;
+    font-size:0.85rem;
+    margin-top:10px;
+    color:#dddddd;
+}
+.foot3{
+    background-color:#222f3d;
+    color:white;
+    border-top:0.5px solid white;
+}
+.again{
+    height:60px;
+    width:100px;
+    background-size:cover;
+    position:relative;
+    top:0;
+    left:690px;
+}
+.foot4{
+    height:60px;
+    background-color:#0f1111;
+    color:white;
+    display:flex;
+    justify-content: center;
+}
+.last{
+    margin-top:25px;
+}
